@@ -1,3 +1,3 @@
-# leetcode
+# first git project
 
 hello world!
